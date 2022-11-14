@@ -1,0 +1,1 @@
+const arr = N => N === undefined ? [] : Array(N).fill(0).map((e, i) => i)
