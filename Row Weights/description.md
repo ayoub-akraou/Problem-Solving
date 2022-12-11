@@ -1,0 +1,1 @@
+https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/solutions/javascript?filter=me&sort=best_practice&invalids=false
